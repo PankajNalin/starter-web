@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pankaj kumar pankajnalin@gmail.com
 
 # THANKS
 
