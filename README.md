@@ -17,10 +17,8 @@ This is a simple web project, deployment can be on any web server or even local 
 
 #How to Contribute
 
-<<<<<<< HEAD
-##Copyright
-2021 GIT.Training PK
-=======
+Please fork this repository and then issue Pull Requests for review
+
 #Copyright
 Adding PK Copright notice
 >>>>>>> add-copyright
