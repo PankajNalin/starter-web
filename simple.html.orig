@@ -5,7 +5,7 @@
 	some silly changes
 -->
 <head>
-	<title>An Example Website</title>
+	<title>Silly changes title</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,7 +19,12 @@
 	<main class="container">
 	<!-- Junk filler content -->
 		<p>
+<<<<<<< c56a7fad08f552381df979c7448ca177b41ac289
+			Just stuff for now,
+			Not sure if we should replace this
+=======
 			Just nothing but trouble
+>>>>>>> fb adding some some trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
